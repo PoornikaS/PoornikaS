@@ -88,6 +88,7 @@
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>Let's connect and code something amazing together!</em>
 </h3>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="Action" />
+<div align="center" style="position: relative;">
+  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="Action" style="filter: hue-rotate(300deg);" />
 </div>
+
