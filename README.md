@@ -66,22 +66,28 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poornikas&theme=radical&layout=compact" alt="poornikas" />
 </p>
 
-<h2 align="center">🏆 GitHub Profile Trophy</h2>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=poornikas&theme=radical&row=1&column=7" alt="poornikas" />
-  </a>
-</p>
+<h2 align="center">🚀 My Coding Journey</h2>
 
-<h2 align="center">🐍 My Contributions</h2>
 <div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/poornikas/poornikas/output/github-contribution-grid-snake.svg" />
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="600" height="300" />
 </div>
+
+<details>
+  <summary align="center">🌟 Click here to see my coding progress!</summary>
+  <br>
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=poornikas&theme=radical" alt="Poornika's GitHub Stats" />
+  </p>
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=poornikas&theme=radical" alt="Top Languages by Repo" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=poornikas&theme=radical" alt="Top Languages by Commit" />
+  </p>
+</details>
 
 <h3 align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>Let's connect and code something amazing together!</em>
 </h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="Action" />
+</div>
