@@ -92,9 +92,3 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="Action" style="filter: hue-rotate(300deg);" />
 </div>
 
-<div align="center">
-  <marquee behavior="scroll" direction="left" style="color: pink; font-size: 24px;">
-    This is a pink marquee text!
-  </marquee>
-</div>
-
