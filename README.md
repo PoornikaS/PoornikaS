@@ -66,16 +66,22 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poornikas&theme=radical&layout=compact" alt="poornikas" />
 </p>
 
-<h2 align="center">My Contribution Graph 📈</h2>
+<h2 align="center">🏆 GitHub Profile Trophy</h2>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=poornikas&theme=rogue" alt="Poornika's Activity Graph" width="100%">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=poornikas&theme=radical&row=1&column=7" alt="poornikas" />
+  </a>
 </p>
 
-<h2 align="center">GitHub Metrics 📌</h2>
-<p align="center">
-  <img src="https://metrics.lecoq.io/poornikas?template=classic&isocalendar=1&languages=1&habits=1&achievements=1&notable=1&activity=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=Asia%2FKolkata" alt="Metrics" width="100%">
-</p>
+<h2 align="center">🐍 My Contributions</h2>
+<div align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/poornikas/poornikas/output/github-contribution-grid-snake.svg" />
+</div>
 
 <h3 align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>Let's connect and code something amazing together!</em>
 </h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+</p>
